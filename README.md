@@ -26,9 +26,9 @@ Welcome to the Build Bootcamp Azure Workshop! This comprehensive two-day program
 
 ### Day 2: Azure Pipelines and API Integration
 
-#### Part 1: Azure Pipelines
+#### Part 1: Azure Pipelines & GitHub Actions
 - Introduction to continuous integration and continuous deployment (CI/CD)
-- Benefits of Azure Pipelines
+- Benefits of Azure Pipelines & GitHub Actions
 - Hands-on experience in creating pipelines using Azure DevOps or YAML
 
 #### Part 2: Exploring APIs
@@ -41,7 +41,7 @@ Welcome to the Build Bootcamp Azure Workshop! This comprehensive two-day program
 
 ## GitHub Repository - Open Source Contributions
 
-During this bootcamp, our expert speaker, Adithya Saladi, taught multiple topics, and now it's time for you to apply your knowledge and contribute to the open-source community. We have set up a GitHub repository where you can push your changes and actively participate in collaborative development.
+During this bootcamp, our expert speakers, Adithya Saladi & Debashish Mishra, taught multiple topics. Now it's time for you to apply your knowledge and contribute to the open-source community. We have set up a GitHub repository where you can push your changes and actively participate in collaborative development.
 
 Please follow these steps to contribute:
 
